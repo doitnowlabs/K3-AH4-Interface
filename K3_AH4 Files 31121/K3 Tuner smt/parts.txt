@@ -1,0 +1,36 @@
+Partlist
+
+Exported from schematic_K3_Tuner.sch at 3/28/2014 2:09:03 AM
+
+EAGLE Version 6.5.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value                 Device                    Package          Library          Sheet
+
+C1       1uf                   C-USC0805                 C0805            rcl              1
+C2       1uf                   C-USC0805                 C0805            rcl              1
+C3       1uf                   C-USC0805                 C0805            rcl              1
+C4       1uf                   C-USC0805                 C0805            rcl              1
+C5       0.001uf               C-USC0805                 C0805            rcl              1
+C6       0.001uf               C-USC0805                 C0805            rcl              1
+C7       0.001uf               C-USC0805                 C0805            rcl              1
+C8       0.001uf               C-USC0805                 C0805            rcl              1
+C10      0.001uf               C-USC0805                 C0805            rcl              1
+C11      0.001uf               C-USC0805                 C0805            rcl              1
+IC1      MAX232ECWE            MAX232ECWE                SO16L            maxim            1
+IC2      ADG419SOIC_N8         ADG419SOIC_N8             SOIC8            K3Library        1
+IC3      ADG419SOIC_N8         ADG419SOIC_N8             SOIC8            K3Library        1
+R2       10k                   R-US_M0805                M0805            resistor         1
+R11      10k                   R-US_M0805                M0805            resistor         1
+R12      10k                   R-US_M0805                M0805            resistor         1
+R13      1k                    R-US_M0805                M0805            resistor         1
+R14      100k                  R-US_M0805                M0805            resistor         1
+R15      4.7k                  R-US_M0805                M0805            resistor         1
+R16      4.7k                  R-US_M0805                M0805            resistor         1
+T1                             MMBT3904LT1-NPN-SOT23-BEC SOT23-BEC        transistor       1
+T2                             MMBT3906LT1-PNP-SOT23-BEC SOT23-BEC        transistor       1
+U$1      ARDUINO_SHIELDNO_SILK ARDUINO_SHIELDNO_SILK     DUEMILANOVE_VIAS SparkFun-Boards  1
+U$2      SMH-103-XX-X-S        SMH-103-XX-X-S            SMH-103-XX-X-S   SAMTEC_Headers   1
+U$3      SMH-106-XX-X-D        SMH-106-XX-X-D            SMH-106-XX-X-D   SAMTEC_Headers   1
+U$5      2X3.SMH.D             2X3.SMH.D                 SMH-103-XX-X-D   samtec_Headers_2 1

@@ -7,4 +7,6 @@ Edit -- March 2021: Greetings from the future! Many people have got in contact w
 
 One note is that this project switches RS232 lines in and out of circuit with an analog switch, which definitely does not comply with the RS232 standard. The project worked great in the state I'm uploading it in, but it wouldn't pass a compliance test. As with all my work, use at your own risk, and have fun!
 
+Schem. and board files are Eagle format. There's a free version of Eagle available to download if you don't own a copy already.
+
 Ben
